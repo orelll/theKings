@@ -1,8 +1,8 @@
 ﻿using Newtonsoft.Json;
 
-namespace TheKings.Core.Entities;
+namespace TheMonarchs.Core.Entities;
 
-public class King
+public class Monarch
 {
     [JsonProperty("id")]
     public int Id { get; set; }

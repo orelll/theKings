@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheKings.App", "TheKings.App\TheKings.App.csproj", "{F89BC931-1F10-409D-B08D-743C1A92E5DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMonarchs.App", "TheMonarchs.App\TheMonarchs.App.csproj", "{F89BC931-1F10-409D-B08D-743C1A92E5DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheKings.Core", "TheKings.Core\TheKings.Core.csproj", "{FEE26D79-9A37-4E6E-8BD0-231094C953DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMonarchs.Core", "TheMonarchs.Core\TheMonarchs.Core.csproj", "{FEE26D79-9A37-4E6E-8BD0-231094C953DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
